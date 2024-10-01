@@ -5,4 +5,3 @@ Run the program "python keylogger.py"
 Type some words and press the Esc key to stop the program from recording your keystrokes.
 
 ![Screenshot from 2024-10-01 17-04-48](https://github.com/user-attachments/assets/8b92f371-76a4-4f2f-adcd-5d3534ac582f)
-![Screenshot from 2024-10-01 17-04-40](https://github.com/user-attachments/assets/9064afb2-694e-4a13-aeed-21c41ca1837b)
