@@ -1,4 +1,4 @@
-# PRODIGY_CS_04
+# Simple Keyloger 
 Basic Keylogger program 
 Create a bsic keylogger program that recordds and logs keystrokes. focusing on logging the key pressed and saving them to a file named "key_log.txt
 Run the program "python keylogger.py"
